@@ -138,15 +138,12 @@ _**Airtel Bangladesh Limited**_ (telecom operator, a sister concern of Bharti Ai
 ## AWARDS AND RECOGNITIONS
 
 **HSBC:** 
-
 Recognized for launching the HSBC Mobile Banking App (2024), eliminating critical payment system incidents for 100% stability (2023), and upgrading the payment platform with a 300% capacity boost and zero downtime (2020).
 
 **Banglalink (Veon):** 
-
 Awarded for seamless legacy recharge system upgrade, ensuring uninterrupted nationwide service (2017).
 
 **Airtel:** 
-
 Honored for driving VAS innovation and revenue growth (2015) and received Gold Medal for the national launch (2008).
 
 
