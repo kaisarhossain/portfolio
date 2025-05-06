@@ -1,4 +1,8 @@
-# Data Scientist
+# Mohammed Golam Kaisar Hossain Bhuyan
+##### Phone: +1 667-421-9894                       	##### LinkedIn: https://www.linkedin.com/in/kaisarhossain/
+##### Email: kaisar.hossain@gmail.com  	            ##### GitHub: https://kaisarhossain.github.io/portfolio/
+
+
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
