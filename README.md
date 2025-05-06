@@ -5,8 +5,22 @@
 ###### GitHub: https://kaisarhossain.github.io/portfolio/
 
 
+## PROFESSIONAL SUMMARY
+Proficient Information Technology and Digital Transformation leader with a proven track record of delivering enterprise-scale solutions, driving data and platform modernization, and leading IT operations, planning and innovation across global organizations like HSBC, Ericsson, IBM. Accomplished in establishing technology strategy, managing cross-functional teams, and operating in complex, regulated environments. Passionate about leveraging AI, machine learning, deep learning, and cloud-native architectures to optimize technology operations, enhance customer experience, and drive business growth.
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## TECHNICAL SKILLS (CORE COMPETENCE)
+Enterprise Technology Leadership: Led enterprise-scale digital transformation initiatives across global firms like HSBC,
+delivering AI/ML platforms, cloud-native solutions, and modern data ecosystems aligned with business and regulatory needs.
+IT Governance, Risk & Compliance: Strong command of governance tools (JIRA, Confluence, ServiceNow), SDLC, compliance Standards (ISO 27001, NIST, GDPR, CCPA). Recognized for audit excellence and regulatory compliance in HSBC Bangladesh.
+Project & Program Delivery: Experienced with Agile, Waterfall methodologies and managing solution scope, resource allocation, stakeholder engagement, vendor management, budget control, RFQ/RFP, cross-functional/global delivery teams. Recognized for HSBC mobile banking, EFT upgrade, AI-based customer on-boarding system, regulatory reporting systems.
+Operational Excellence: Drove service stability, incident management, and performance KPIs in production environments, with high focus on scalable, high-quality, and resilient system operations.
+Technology Governance & Adoption: Enabled adoption of emerging technologies and practices through structured governance, SLA/WLA tracking, aligning innovation with business and addressed regulatory priorities.
+Team Leadership & Global Collaboration: Led and mentored cross-functional global teams. Experienced in tech team development, KPI assessment, technical documentation, conflict resolution, change management and technology strategy.
+Cloud Platforms & Data Technology: Expert in building and managing cloud-native architectures on GCP/AWS. Skilled in 
+DevSecOps, infrastructure automation, Python frameworks, microservices, cloud billing, and data technologies.
+AI, Machine Learning & Deep Learning: Skilled in Python, Java, SQL, Android Studio, Flutter, REST API, MCP, ML/DL pipelines, MLOps, EDA techniques, data visualization (Tableau), model training, enterprise integration. Experienced in DNN, CNN, Transfer Learning, and deploying AI models on Azure/GCP/AWS. Have experience in working on GenAI, Agentic AI, RAG, Agentic RAG combining LLM models, NLP chatbots, AI cloud frameworks and AI integration of applications.
+![image](https://github.com/user-attachments/assets/6220a0d5-e15a-4ca7-9156-5ada7820b90d)
+
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
