@@ -4,7 +4,7 @@
 ###### GitHub: https://kaisarhossain.github.io/portfolio/
 
 
-## PROFESSIONAL SUMMARY
+## CAREER SUMMARY
 Proficient Information Technology and Digital Transformation leader with a proven track record of delivering enterprise-scale solutions, driving data and platform modernization, and leading IT operations, planning and innovation across global organizations like HSBC, Ericsson, IBM. Accomplished in establishing technology strategy, managing cross-functional teams, and operating in complex, regulated environments. Passionate about leveraging AI, machine learning, deep learning, and cloud-native architectures to optimize technology operations, enhance customer experience, and drive business growth.
 
 ## TECHNICAL SKILLS (CORE COMPETENCE)
