@@ -28,15 +28,17 @@ DevSecOps, infrastructure automation, Python frameworks, microservices, cloud bi
 Skilled in Python, Java, SQL, Android Studio, Flutter, REST API, MCP, ML/DL pipelines, MLOps, EDA techniques, data visualization (Tableau), model training, enterprise integration. Experienced in DNN, CNN, Transfer Learning, and deploying AI models on Azure/GCP/AWS. Have experience in working on GenAI, Agentic AI, RAG, Agentic RAG combining LLM models, NLP chatbots, AI cloud frameworks and AI integration of applications.
 
 
-
 ## Education
 - Master of Science (Computer Science)        | The Catholic University of America (Washington DC) | CGPA: 4.0  | Aug 2024-Dec 2025
 - Bachelor of Science (Computer Engineering)  | American International University-Bangladesh       | CGPA: 3.87 | May 2002-Apr 2006
 
 ## Work Experience
 **Aug 2010 – Dec 2024**
+
 **Vice President and Head of IT Application Development and Maintenance**
+
 **Interim Head of IT** (Jun 2023 – Jul 2023)
+
 _**The Hongkong and Shanghai Banking Corporation Limited (HSBC)**_	
 –	Spearheaded Agile teams across regions to architect, develop, and deploy mission-critical systems- enhancing regulatory reporting platforms, digital payment systems-mobile app, HSBC calendar- achieving 100% SDLC adherence and 95% on-time delivery.
 –	Accelerated EFT (Electronic Fund Transfer) system throughput by 300% by automating core workflows and optimizing operational controls, significantly reducing manual dependencies, incidents and improving transaction reliability.
