@@ -22,8 +22,8 @@ DevSecOps, infrastructure automation, Python frameworks, microservices, cloud bi
 
 
 ## Education
-- Master of Science (Computer Science) | The Catholic University of America (Washington DC) | CGPA: 4.0 | Aug 2024-Dec 2025
-- Bachelor of Science (Computer Engineering)  | American International University-Bangladesh | CGPA: 3.87 | May 2002-Apr 2006
+- Master of Science (Computer Science)        | The Catholic University of America (Washington DC) | CGPA: 4.0  | Aug 2024-Dec 2025
+- Bachelor of Science (Computer Engineering)  | American International University-Bangladesh       | CGPA: 3.87 | May 2002-Apr 2006
 
 ## Work Experience
 **Aug 2010 – Dec 2024**
