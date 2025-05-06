@@ -19,7 +19,7 @@ Team Leadership & Global Collaboration: Led and mentored cross-functional global
 Cloud Platforms & Data Technology: Expert in building and managing cloud-native architectures on GCP/AWS. Skilled in 
 DevSecOps, infrastructure automation, Python frameworks, microservices, cloud billing, and data technologies.
 AI, Machine Learning & Deep Learning: Skilled in Python, Java, SQL, Android Studio, Flutter, REST API, MCP, ML/DL pipelines, MLOps, EDA techniques, data visualization (Tableau), model training, enterprise integration. Experienced in DNN, CNN, Transfer Learning, and deploying AI models on Azure/GCP/AWS. Have experience in working on GenAI, Agentic AI, RAG, Agentic RAG combining LLM models, NLP chatbots, AI cloud frameworks and AI integration of applications.
-![image](https://github.com/user-attachments/assets/6220a0d5-e15a-4ca7-9156-5ada7820b90d)
+
 
 
 ## Education
