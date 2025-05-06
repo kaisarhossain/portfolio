@@ -23,7 +23,8 @@ AI, Machine Learning & Deep Learning: Skilled in Python, Java, SQL, Android Stud
 
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- Master of Science (Computer Science) | The Catholic University of America (Washington DC) | CGPA: 4.0 | 
+(_May 2022_)
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
