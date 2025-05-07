@@ -9,31 +9,41 @@ Experienced IT Professional with a strong track record in IT operations, digital
 **Enterprise Technology Leadership:** Led enterprise-scale digital transformation initiatives across global firms like HSBC, delivering AI/ML platforms, cloud-native solutions, and modern data ecosystems aligned with business and regulatory needs.
 
 **IT Governance, Risk & Compliance:** Strong command of governance tools (JIRA, Confluence, ServiceNow), SDLC, compliance Standards (ISO 27001, NIST, GDPR, CCPA). Recognized for audit excellence and regulatory compliance in HSBC Bangladesh.
-**Project & Program Delivery:** 
-Experienced with Agile, Waterfall methodologies and managing solution scope, resource allocation, stakeholder engagement, vendor management, budget control, RFQ/RFP, cross-functional/global delivery teams. Recognized for HSBC mobile banking, EFT upgrade, AI-based customer on-boarding system, regulatory reporting systems.
-**Operational Excellence:** 
-Drove service stability, incident management, and performance KPIs in production environments, with high focus on scalable, high-quality, and resilient system operations.
-**Technology Governance & Adoption:** 
-Enabled adoption of emerging technologies and practices through structured governance, SLA/WLA tracking, aligning innovation with business and addressed regulatory priorities.
-**Team Leadership & Global Collaboration:** 
-Led and mentored cross-functional global teams. Experienced in tech team development, KPI assessment, technical documentation, conflict resolution, change management and technology strategy.
-**Cloud Platforms & Data Technology:** 
-Expert in building and managing cloud-native architectures on GCP/AWS. Skilled in 
+
+**Project & Program Delivery:** Experienced with Agile, Waterfall methodologies and managing solution scope, resource allocation, stakeholder engagement, vendor management, budget control, RFQ/RFP, cross-functional/global delivery teams. Recognized for HSBC mobile banking, EFT upgrade, AI-based customer on-boarding system, regulatory reporting systems.
+
+**Operational Excellence:** Drove service stability, incident management, and performance KPIs in production environments, with high focus on scalable, high-quality, and resilient system operations.
+
+**Technology Governance & Adoption:** Enabled adoption of emerging technologies and practices through structured governance, SLA/WLA tracking, aligning innovation with business and addressed regulatory priorities.
+
+**Team Leadership & Global Collaboration:** Led and mentored cross-functional global teams. Experienced in tech team development, KPI assessment, technical documentation, conflict resolution, change management and technology strategy.
+
+**Cloud Platforms & Data Technology:** Expert in building and managing cloud-native architectures on GCP/AWS. Skilled in 
 DevSecOps, infrastructure automation, Python frameworks, microservices, cloud billing, and data technologies.
-**AI, Machine Learning & Deep Learning:** 
-Skilled in Python, Java, SQL, Android Studio, Flutter, REST API, MCP, ML/DL pipelines, MLOps, EDA techniques, data visualization (Tableau), model training, enterprise integration. Experienced in DNN, CNN, Transfer Learning, and deploying AI models on Azure/GCP/AWS. Have experience in working on GenAI, Agentic AI, RAG, Agentic RAG combining LLM models, NLP chatbots, AI cloud frameworks and AI integration of applications.
+
+**AI, Machine Learning & Deep Learning:** Skilled in Python, Java, SQL, Android Studio, Flutter, REST API, MCP, ML/DL pipelines, MLOps, EDA techniques, data visualization (Tableau), model training, enterprise integration. Experienced in DNN, CNN, Transfer Learning, and deploying AI models on Azure/GCP/AWS. Have experience in working on GenAI, Agentic AI, RAG, Agentic RAG combining LLM models, NLP chatbots, AI cloud frameworks and AI integration of applications.
 
 ## TECHNICAL SKILLS
 –	18 years driving IT operations, incident response, and KPI management in scalable, resilient production environments.
+
 –	15 years in enterprise technology leadership, leading digital transformation and solution planning across global firms.
+
 –	10 years managing IT teams, with strengths in performance reviews, documentation, change, and conflict resolution.
+
 –	12 years in IT governance, risk, and compliance (SDLC, ISO 27001, NIST, GDPR), strategy, budgeting, DR, and tools like JIRA, Confluence, and ServiceNow.
+
 –	12 years in project/program/scope management (Agile/Waterfall), stakeholders, vendors, budgets, RFQ/RFP.
+
 –	12 years using Microsoft 365 suite, Power BI, and MS Project for business reporting and planning.
+
 –	10 years aligning emerging tech with governance, SLAs/WLAs, and compliance to drive innovation.
+
 –	5 years building, managing GCP/AWS cloud-native solutions, DevSecOps, Python frameworks, and microservices.
+
 –	5 years in ML/DL using Python, Java, SQL, Flutter, REST APIs, Android Studio, and .NET.
+
 –	5 years in AI/ML architecture, MLOps, EDA, Tableau, and deploying models on AWS/GCP.
+
 –	2 years with GenAI, Agentic AI, RAG, DNN/CNN, Transfer Learning, and LLM-based chatbot integration.
 
 
