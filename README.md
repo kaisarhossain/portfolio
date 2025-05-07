@@ -1,8 +1,8 @@
-###### Phone: +1 667-421-9894 
-###### Email: kaisar.hossain@gmail.com  	            
-###### LinkedIn: https://www.linkedin.com/in/kaisarhossain/
-###### GitHub: https://kaisarhossain.github.io/portfolio/
-
+## CONTACT DETAIL 
+**Phone: +1 667-421-9894 
+Email: kaisar.hossain@gmail.com  	            
+LinkedIn: https://www.linkedin.com/in/kaisarhossain/
+**
 
 ## CAREER SUMMARY
 Proficient Information Technology and Digital Transformation leader with a proven track record of delivering enterprise-scale solutions, driving data and platform modernization, and leading IT operations, planning and innovation across global organizations like HSBC, Ericsson, IBM. Accomplished in establishing technology strategy, managing cross-functional teams, and operating in complex, regulated environments. Passionate about leveraging AI, machine learning, deep learning, and cloud-native architectures to optimize technology operations, enhance customer experience, and drive business growth.
