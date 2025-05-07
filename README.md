@@ -24,27 +24,27 @@ DevSecOps, infrastructure automation, Python frameworks, microservices, cloud bi
 **AI, Machine Learning & Deep Learning:** Skilled in Python, Java, SQL, Android Studio, Flutter, REST API, MCP, ML/DL pipelines, MLOps, EDA techniques, data visualization (Tableau), model training, enterprise integration. Experienced in DNN, CNN, Transfer Learning, and deploying AI models on Azure/GCP/AWS. Have experience in working on GenAI, Agentic AI, RAG, Agentic RAG combining LLM models, NLP chatbots, AI cloud frameworks and AI integration of applications.
 
 ## TECHNICAL SKILLS
-–	18 years driving IT operations, incident response, and KPI management in scalable, resilient production environments.
+18 years driving IT operations, incident response, and KPI management in scalable, resilient production environments.
 
-–	15 years in enterprise technology leadership, leading digital transformation and solution planning across global firms.
+15 years in enterprise technology leadership, leading digital transformation and solution planning across global firms.
 
-–	10 years managing IT teams, with strengths in performance reviews, documentation, change, and conflict resolution.
+10 years managing IT teams, with strengths in performance reviews, documentation, change, and conflict resolution.
 
-–	12 years in IT governance, risk, and compliance (SDLC, ISO 27001, NIST, GDPR), strategy, budgeting, DR, and tools like JIRA, Confluence, and ServiceNow.
+12 years in IT governance, risk, and compliance (SDLC, ISO 27001, NIST, GDPR), strategy, budgeting, DR, and tools like JIRA, Confluence, and ServiceNow.
 
-–	12 years in project/program/scope management (Agile/Waterfall), stakeholders, vendors, budgets, RFQ/RFP.
+12 years in project/program/scope management (Agile/Waterfall), stakeholders, vendors, budgets, RFQ/RFP.
 
-–	12 years using Microsoft 365 suite, Power BI, and MS Project for business reporting and planning.
+12 years using Microsoft 365 suite, Power BI, and MS Project for business reporting and planning.
 
-–	10 years aligning emerging tech with governance, SLAs/WLAs, and compliance to drive innovation.
+10 years aligning emerging tech with governance, SLAs/WLAs, and compliance to drive innovation.
 
-–	5 years building, managing GCP/AWS cloud-native solutions, DevSecOps, Python frameworks, and microservices.
+5 years building, managing GCP/AWS cloud-native solutions, DevSecOps, Python frameworks, and microservices.
 
-–	5 years in ML/DL using Python, Java, SQL, Flutter, REST APIs, Android Studio, and .NET.
+5 years in ML/DL using Python, Java, SQL, Flutter, REST APIs, Android Studio, and .NET.
 
-–	5 years in AI/ML architecture, MLOps, EDA, Tableau, and deploying models on AWS/GCP.
+5 years in AI/ML architecture, MLOps, EDA, Tableau, and deploying models on AWS/GCP.
 
-–	2 years with GenAI, Agentic AI, RAG, DNN/CNN, Transfer Learning, and LLM-based chatbot integration.
+2 years with GenAI, Agentic AI, RAG, DNN/CNN, Transfer Learning, and LLM-based chatbot integration.
 
 
 
