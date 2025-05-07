@@ -47,7 +47,6 @@ DevSecOps, infrastructure automation, Python frameworks, microservices, cloud bi
 2 years with GenAI, Agentic AI, RAG, DNN/CNN, Transfer Learning, and LLM-based chatbot integration.
 
 
-
 ## Education
 
 Master of Science (Computer Science)        | The Catholic University of America (Washington DC) | CGPA: 4.0  | Aug 2024-Dec 2025
