@@ -54,7 +54,7 @@ DevSecOps, infrastructure automation, Python frameworks, microservices, cloud bi
 
 ## Work Experience
 
-**Aug 2010 – Dec 2024**
+**Aug 2019 – Dec 2024**
 
 **Vice President and Head of IT Application Development and Maintenance**
 
