@@ -7,6 +7,7 @@ Experienced IT Professional with a strong track record in IT operations, digital
 
 ## CORE COMPETENCE
 **Enterprise Technology Leadership:** Led enterprise-scale digital transformation initiatives across global firms like HSBC, delivering AI/ML platforms, cloud-native solutions, and modern data ecosystems aligned with business and regulatory needs.
+
 **IT Governance, Risk & Compliance:** Strong command of governance tools (JIRA, Confluence, ServiceNow), SDLC, compliance Standards (ISO 27001, NIST, GDPR, CCPA). Recognized for audit excellence and regulatory compliance in HSBC Bangladesh.
 **Project & Program Delivery:** 
 Experienced with Agile, Waterfall methodologies and managing solution scope, resource allocation, stakeholder engagement, vendor management, budget control, RFQ/RFP, cross-functional/global delivery teams. Recognized for HSBC mobile banking, EFT upgrade, AI-based customer on-boarding system, regulatory reporting systems.
