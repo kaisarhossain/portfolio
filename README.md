@@ -1,7 +1,5 @@
 ## CONTACT DETAIL
-**Phone: +1 667-421-9894**
-**Email: kaisar.hossain@gmail.com**
-**LinkedIn: https://www.linkedin.com/in/kaisarhossain/**
+**Phone: +1 667-421-9894** **|** **Email: kaisar.hossain@gmail.com** **|** **LinkedIn: https://www.linkedin.com/in/kaisarhossain/**
 
 
 ## CAREER SUMMARY
