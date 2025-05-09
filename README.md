@@ -53,14 +53,14 @@ Master of Science (Computer Science)        | The Catholic University of America
 Bachelor of Science (Computer Engineering)  | American International University-Bangladesh       | CGPA: 3.87 | May 2002-Apr 2006
 
 ## Work Experience
-![HSBC](/images/HSBC.png)
+
 **Aug 2019 – Dec 2024**
 
 **Vice President and Head of IT Application Development and Maintenance**
 
 **Interim Head of IT** (Jun 2023 – Jul 2023)
 
-_**The Hongkong and Shanghai Banking Corporation Limited (HSBC)**_	
+![HSBC](/images/HSBC.png)_**The Hongkong and Shanghai Banking Corporation Limited (HSBC)**_	
 
 –	Spearheaded Agile teams across regions to architect, develop, and deploy mission-critical systems- enhancing regulatory reporting platforms, digital payment systems-mobile app, HSBC calendar- achieving 100% SDLC adherence and 95% on-time delivery.
 
