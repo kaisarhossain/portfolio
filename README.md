@@ -54,13 +54,14 @@ Bachelor of Science (Computer Engineering)  | American International University-
 
 ## Work Experience
 
+![HSBC](/images/HSBC.png)
 **Aug 2019 – Dec 2024**
 
 **Vice President and Head of IT Application Development and Maintenance**
 
 **Interim Head of IT** (Jun 2023 – Jul 2023)
 
-![HSBC](/images/HSBC.png)_**The Hongkong and Shanghai Banking Corporation Limited (HSBC)**_	
+_**The Hongkong and Shanghai Banking Corporation Limited (HSBC)**_	
 
 –	Spearheaded Agile teams across regions to architect, develop, and deploy mission-critical systems- enhancing regulatory reporting platforms, digital payment systems-mobile app, HSBC calendar- achieving 100% SDLC adherence and 95% on-time delivery.
 
@@ -80,11 +81,12 @@ Bachelor of Science (Computer Engineering)  | American International University-
 
 –	Facilitated cross-functional business-technology workshops and led as a solution architect to scale automation, enhance stakeholder engagement, and deliver measurable business impact through digital transformation initiatives.
 
+![Veon](/images/Veon.png)
 **Dec 2016 – Jul 2019**
 
 **Senior Manager, IT Digital Services and Value-Added Services (IT DSS-VAS)**
 
-![Veon](/images/Veon.png)_**Banglalink Digital Communications Limited**_ (telecom operator, a sister concern of VEON Telecom)	
+_**Banglalink Digital Communications Limited**_ (telecom operator, a sister concern of VEON Telecom)	
 
 –	Managed end-to-end operations of Digital Value-Added Services (VAS) platforms, including Recharge Systems, Mobile Financial Services, IVR, USSD Gateways, and mobile applications—ensuring 99.9% service uptime and seamless user experience.
 
@@ -95,11 +97,12 @@ reach and driving user engagement.
 
 –	Optimized IT budgets, licensing agreements, and audit processes—resulting in measurable OPEX reductions of up to 10% annually without compromising service quality or delivery timelines.
 
+![Axiata](/images/Axiata.png)
 **Apr 2013 – Nov 2016**
 
 **Manager, IT Business Support Systems (IT BSS)**
 
-![Axiata](/images/Axiata.png)_**Robi Axiata Limited**_ (telecom operator, a sister concern of Axiata Telecom)
+_**Robi Axiata Limited**_ (telecom operator, a sister concern of Axiata Telecom)
 
 –	Led the end-to-end development and delivery of BSS and VAS applications in alignment with SDLC best practices, partnering with third-party vendors to ensure timely, compliant, and scalable solutions.
 
@@ -107,31 +110,34 @@ reach and driving user engagement.
 
 –	Oversaw multi-vendor managed service operations (IBM, Mahindra Comviva), ensuring strict compliance with contractual KPIs, SLAs, and governance frameworks—boosting vendor performance by 20% and reducing incident response times.
 
+![Ericsson](/images/Ericsson.png)
 **Oct 2011 – Mar 2013**
 
 **Service Engineer, Competence Domain-Business Support System (CD-BSS) ** 
 
-![Ericsson](/images/Ericsson.png)_**Ericsson**_ (global telecom solution vendor)
+_**Ericsson**_ (global telecom solution vendor)
 
 –	Acted as the Subject Matter Expert (SME) for Ericsson’s prepaid solution, leading the Managed Services team in 24/7 Intelligent Network (IN) operations, advanced troubleshooting, and real-time product configuration—achieving 99.99% service availability.
 
 –	Engineered and integrated end-to-end product solutions by optimizing SDP/AIR configurations, resulting in a 30% uplift in customer revenue for Airtel Bangladesh through enhanced feature rollout and faster time-to-market delivery.
 
+![IBM](/images/IBM.png)
 **Dec 2010 – Oct 2011**
 
 **Senior IT Representative, IBM Telecom Services**                                                                                                          
 
-![IBM](/images/IBM.png)_**IBM**_
+_**IBM**_
 
 –	Managed IT BSS operations and IT projects with the support of IBM global solution partners.
 
 –	Implemented IBM SaaS by analyzing business requirements and collaborating with global IT for seamless service delivery.
 
+![Airtel](/images/Airtel.png)
 **Jun 2006 – Nov 2010**
 
 **IT Specialist, IT Business Support Systems (IT BSS)**
 
-![Airtel](/images/Airtel.png)_**Airtel Bangladesh Limited**_ (telecom operator, a sister concern of Bharti Airtel Telecom)
+_**Airtel Bangladesh Limited**_ (telecom operator, a sister concern of Bharti Airtel Telecom)
 
 –	Served as SME for postpaid telecom solution design, ensuring alignment with enterprise architecture and delivery goals.
 
