@@ -1,6 +1,7 @@
 ## CONTACT DETAIL
 **Phone: +1 667-421-9894** **|** **Email: kaisar.hossain@gmail.com** **|** **LinkedIn: https://www.linkedin.com/in/kaisarhossain/**
 
+![Career_Summary](/images/career_summary.png)
 
 ## CAREER SUMMARY
 Experienced IT Professional with a strong track record in IT operations, digital transformation, and enterprise solution delivery across global organizations like HSBC, Veon, Axiata, Ericsson. Adept at leading cross-functional teams, modernizing data platforms, and aligning technology strategies with business goals. Proven ability to harness AI, machine learning to enhance resilience, elevate customer experience, and accelerate business growth.
