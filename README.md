@@ -173,7 +173,7 @@ Honored for driving VAS innovation and revenue growth (2015) and received Gold M
 
 ## PROJECTS
 
-![project1](/images/project1.ico)
+![project1](/images/projects1.ico)
 
 **Mobile Banking App Implementation (HSBC, 2024):** 
 Led HSBC’s mobile app development, driven 25% business growth target.
@@ -183,27 +183,27 @@ Led HSBC’s mobile app development, driven 25% business growth target.
 **EFT Capacity Enhancement (HSBC, 2023):** 
 Boosted EFT capacity by 300% through data-driven enhancements, earning recognition.
 
-![project3](/images/project3.ico)
+![project3](/images/projects3.ico)
 
 **Loan Eligibility Prediction System (HSBC, 2024):** 
 Piloted a Python-ML based loan eligibility prediction system in HSBC.
 
-![project4](/images/project4.ico)
+![project4](/images/projects4.ico)
 
 **Plant Disease Detection-Cure using CNN (2025):** 
 CNN based image processing model for plant disease detection.
 
-![project5](/images/project5.ico)
+![project5](/images/projects5.ico)
 
 **NLP Chatbot & Order Management System (2025):** 
 Fully functional ORM system using Python, Dialogflow, MySQL, FastAPI.
 
-![project9](/images/project9.ico)
+![project9](/images/projects9.ico)
 
 **Automatic Content Creator using GenAI (2025):** 
 Capable of generating dynamic contents from link/text using Python, Groq Cloud.
 
-![project8](/images/project8.ico)
+![project8](/images/projects8.ico)
 
 **Job Hunt Automation using RAG (2025):** 
 Resume, cover letter, email generator based on RAG using Python, LangChain, Chromadb.
