@@ -60,6 +60,7 @@ Bachelor of Science (Computer Engineering)  | American International University-
 
 **Interim Head of IT** (Jun 2023 – Jul 2023)
 
+![HSBC](/images/HSBC.png)
 _**The Hongkong and Shanghai Banking Corporation Limited (HSBC)**_	
 
 –	Spearheaded Agile teams across regions to architect, develop, and deploy mission-critical systems- enhancing regulatory reporting platforms, digital payment systems-mobile app, HSBC calendar- achieving 100% SDLC adherence and 95% on-time delivery.
