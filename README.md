@@ -6,6 +6,8 @@
 ## CAREER SUMMARY
 Experienced IT Professional with a strong track record in IT operations, digital transformation, and enterprise solution delivery across global organizations like HSBC, Veon, Axiata, Ericsson. Adept at leading cross-functional teams, modernizing data platforms, and aligning technology strategies with business goals. Proven ability to harness AI, machine learning to enhance resilience, elevate customer experience, and accelerate business growth.
 
+![Core_Competence](/images/core_competence.ico)
+
 ## CORE COMPETENCE
 **Enterprise Technology Leadership:** Led enterprise-scale digital transformation initiatives across global firms like HSBC, delivering AI/ML platforms, cloud-native solutions, and modern data ecosystems aligned with business and regulatory needs.
 
@@ -23,6 +25,8 @@ Experienced IT Professional with a strong track record in IT operations, digital
 DevSecOps, infrastructure automation, Python frameworks, microservices, cloud billing, and data technologies.
 
 **AI, Machine Learning & Deep Learning:** Skilled in Python, Java, SQL, Android Studio, Flutter, REST API, MCP, ML/DL pipelines, MLOps, EDA techniques, data visualization (Tableau), model training, enterprise integration. Experienced in DNN, CNN, Transfer Learning, and deploying AI models on Azure/GCP/AWS. Have experience in working on GenAI, Agentic AI, RAG, Agentic RAG combining LLM models, NLP chatbots, AI cloud frameworks and AI integration of applications.
+
+![Skills](/images/technical_skills.ico)
 
 ## TECHNICAL SKILLS
 18 years driving IT operations, incident response, and KPI management in scalable, resilient production environments.
@@ -47,6 +51,7 @@ DevSecOps, infrastructure automation, Python frameworks, microservices, cloud bi
 
 2 years with GenAI, Agentic AI, RAG, DNN/CNN, Transfer Learning, and LLM-based chatbot integration.
 
+![Skills](/images/education.ico)
 
 ## Education
 
@@ -152,6 +157,7 @@ _**Airtel Bangladesh Limited**_ (telecom operator, a sister concern of Bharti Ai
 
 –	Designed and delivered cost-optimized, in-house applications: Virtual Warehouse, Inventory Management, SIM Packaging solution.
 
+![Awards](/images/awards.ico)
 
 ## AWARDS AND RECOGNITIONS
 
@@ -167,23 +173,37 @@ Honored for driving VAS innovation and revenue growth (2015) and received Gold M
 
 ## PROJECTS
 
+![project1](/images/project1.ico)
+
 **Mobile Banking App Implementation (HSBC, 2024):** 
 Led HSBC’s mobile app development, driven 25% business growth target.
+
+![project2](/images/project2.ico)
 
 **EFT Capacity Enhancement (HSBC, 2023):** 
 Boosted EFT capacity by 300% through data-driven enhancements, earning recognition.
 
+![project3](/images/project3.ico)
+
 **Loan Eligibility Prediction System (HSBC, 2024):** 
 Piloted a Python-ML based loan eligibility prediction system in HSBC.
+
+![project4](/images/project4.ico)
 
 **Plant Disease Detection-Cure using CNN (2025):** 
 CNN based image processing model for plant disease detection.
 
+![project5](/images/project5.ico)
+
 **NLP Chatbot & Order Management System (2025):** 
 Fully functional ORM system using Python, Dialogflow, MySQL, FastAPI.
 
+![project9](/images/project9.ico)
+
 **Automatic Content Creator using GenAI (2025):** 
 Capable of generating dynamic contents from link/text using Python, Groq Cloud.
+
+![project8](/images/project8.ico)
 
 **Job Hunt Automation using RAG (2025):** 
 Resume, cover letter, email generator based on RAG using Python, LangChain, Chromadb.
