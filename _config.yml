@@ -1,7 +1,8 @@
 title: Mohammed Golam Kaisar Hossain Bhuyan
 logo: /images/Profile_Picture_2.png
+
 description: AI/ML/DL/Data Science Engineer | Tech Lead| Digital Transformation Leader |Ex-HSBC, Ericsson, IBM, VEON, Robi Axiata, Airtel|
 
-show_downloads: true
+# show_downloads: true
 
 theme: jekyll-theme-minimal
