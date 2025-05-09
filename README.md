@@ -84,7 +84,7 @@ Bachelor of Science (Computer Engineering)  | American International University-
 
 **Senior Manager, IT Digital Services and Value-Added Services (IT DSS-VAS)**
 
-_**Banglalink Digital Communications Limited**_ (telecom operator, a sister concern of VEON Telecom)	
+![Veon](/images/Veon.png)_**Banglalink Digital Communications Limited**_ (telecom operator, a sister concern of VEON Telecom)	
 
 –	Managed end-to-end operations of Digital Value-Added Services (VAS) platforms, including Recharge Systems, Mobile Financial Services, IVR, USSD Gateways, and mobile applications—ensuring 99.9% service uptime and seamless user experience.
 
@@ -99,7 +99,7 @@ reach and driving user engagement.
 
 **Manager, IT Business Support Systems (IT BSS)**
 
-_**Robi Axiata Limited**_ (telecom operator, a sister concern of Axiata Telecom)
+![Axiata](/images/Axiata.png)_**Robi Axiata Limited**_ (telecom operator, a sister concern of Axiata Telecom)
 
 –	Led the end-to-end development and delivery of BSS and VAS applications in alignment with SDLC best practices, partnering with third-party vendors to ensure timely, compliant, and scalable solutions.
 
@@ -111,7 +111,7 @@ _**Robi Axiata Limited**_ (telecom operator, a sister concern of Axiata Telecom)
 
 **Service Engineer, Competence Domain-Business Support System (CD-BSS) ** 
 
-_**Ericsson**_ (global telecom solution vendor)
+![Ericsson](/images/Ericsson.png)_**Ericsson**_ (global telecom solution vendor)
 
 –	Acted as the Subject Matter Expert (SME) for Ericsson’s prepaid solution, leading the Managed Services team in 24/7 Intelligent Network (IN) operations, advanced troubleshooting, and real-time product configuration—achieving 99.99% service availability.
 
@@ -121,7 +121,7 @@ _**Ericsson**_ (global telecom solution vendor)
 
 **Senior IT Representative, IBM Telecom Services**                                                                                                          
 
-_**IBM**_
+![IBM](/images/IBM.png)_**IBM**_
 
 –	Managed IT BSS operations and IT projects with the support of IBM global solution partners.
 
@@ -131,7 +131,7 @@ _**IBM**_
 
 **IT Specialist, IT Business Support Systems (IT BSS)**
 
-_**Airtel Bangladesh Limited**_ (telecom operator, a sister concern of Bharti Airtel Telecom)
+![Airtel](/images/Airtel.png)_**Airtel Bangladesh Limited**_ (telecom operator, a sister concern of Bharti Airtel Telecom)
 
 –	Served as SME for postpaid telecom solution design, ensuring alignment with enterprise architecture and delivery goals.
 
