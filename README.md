@@ -1,10 +1,14 @@
 ## CONTACT DETAIL
 **Phone: +1 667-421-9894** **|** **Email: kaisar.hossain@gmail.com** **|** **LinkedIn: https://www.linkedin.com/in/kaisarhossain/**
 
+--- 
+
 ![Career_Summary](/images/career_summary.ico)
 
 ## CAREER SUMMARY
 Experienced IT Professional with a strong track record in IT operations, digital transformation, and enterprise solution delivery across global organizations like HSBC, Veon, Axiata, Ericsson. Adept at leading cross-functional teams, modernizing data platforms, and aligning technology strategies with business goals. Proven ability to harness AI, machine learning to enhance resilience, elevate customer experience, and accelerate business growth.
+
+--- 
 
 ![Core_Competence](/images/core_competence.ico)
 
@@ -25,6 +29,8 @@ Experienced IT Professional with a strong track record in IT operations, digital
 DevSecOps, infrastructure automation, Python frameworks, microservices, cloud billing, and data technologies.
 
 **AI, Machine Learning & Deep Learning:** Skilled in Python, Java, SQL, Android Studio, Flutter, REST API, MCP, ML/DL pipelines, MLOps, EDA techniques, data visualization (Tableau), model training, enterprise integration. Experienced in DNN, CNN, Transfer Learning, and deploying AI models on Azure/GCP/AWS. Have experience in working on GenAI, Agentic AI, RAG, Agentic RAG combining LLM models, NLP chatbots, AI cloud frameworks and AI integration of applications.
+
+--- 
 
 ![Skills](/images/technical_skills.ico)
 
@@ -51,12 +57,16 @@ DevSecOps, infrastructure automation, Python frameworks, microservices, cloud bi
 
 2 years with GenAI, Agentic AI, RAG, DNN/CNN, Transfer Learning, and LLM-based chatbot integration.
 
+--- 
+
 ![Skills](/images/education.ico)
 
 ## Education
 
 Master of Science (Computer Science)        | The Catholic University of America (Washington DC) | CGPA: 4.0  | Aug 2024-Dec 2025
 Bachelor of Science (Computer Engineering)  | American International University-Bangladesh       | CGPA: 3.87 | May 2002-Apr 2006
+
+--- 
 
 ## Work Experience
 
@@ -157,6 +167,8 @@ _**Airtel Bangladesh Limited**_ (telecom operator, a sister concern of Bharti Ai
 
 –	Designed and delivered cost-optimized, in-house applications: Virtual Warehouse, Inventory Management, SIM Packaging solution.
 
+--- 
+
 ![Awards](/images/awards.ico)
 
 ## AWARDS AND RECOGNITIONS
@@ -170,43 +182,11 @@ Awarded for seamless legacy recharge system upgrade, ensuring uninterrupted nati
 **Airtel:** 
 Honored for driving VAS innovation and revenue growth (2015) and received Gold Medal for the national launch (2008).
 
+--- 
+## 🚀 My Project Portfolio
 
-## PROJECTS
+Below you'll find a collection of my key projects demonstrating my work in Machine Learning, Deep Learning, Generative AI, Full-Stack development, and NLP. Feel free to connect or collaborate!
 
-![Projects4](/images/projects4.ico)
+🔗 [My Projects](https://kaisarhossain.github.io/projects/)
 
-**Mobile Banking App Implementation (HSBC, 2024):** 
-Led HSBC’s mobile app development, driven 25% business growth target.
-
-![Projects5](/images/projects5.ico)
-
-**EFT Capacity Enhancement (HSBC, 2023):** 
-Boosted EFT capacity by 300% through data-driven enhancements, earning recognition.
-
-![Projects3](/images/projects3.ico)
-
-**Loan Eligibility Prediction System (HSBC, 2024):** 
-Piloted a Python-ML based loan eligibility prediction system in HSBC.
-
-![Projects4](/images/projects4.ico)
-
-**Plant Disease Detection-Cure using CNN (2025):** 
-CNN based image processing model for plant disease detection.
-
-![Projects5](/images/projects5.ico)
-
-**NLP Chatbot & Order Management System (2025):** 
-Fully functional ORM system using Python, Dialogflow, MySQL, FastAPI.
-
-![Projects9](/images/projects9.ico)
-
-**Automatic Content Creator using GenAI (2025):** 
-Capable of generating dynamic contents from link/text using Python, Groq Cloud.
-
-![Projects8](/images/projects8.ico)
-
-**Job Hunt Automation using RAG (2025):** 
-Resume, cover letter, email generator based on RAG using Python, LangChain, Chromadb.
-
-
-
+--- 
